@@ -1,0 +1,163 @@
+/* App */
+.page-container {
+    background-color: var(--white);
+    height: 4217px;
+    width: 1366px;
+}
+
+/* Navbar */
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500,900");
+
+.navbar {
+    align-items: center;
+    display: flex;
+    height: 73px;
+    min-width: 1372px;
+    padding: 0 11px;
+}
+
+.overlap-group1 {
+    align-self: flex-end;
+    height: 71px;
+    position: relative;
+    width: 106px;
+}
+
+.title {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l);
+    font-weight: 500;
+    left: 60px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 17px;
+}
+
+.logo_nobrand-2 {
+    height: 71px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 71px;
+}
+
+.overlap-group {
+    align-items: flex-end;
+    background-color: var(--persian-green);
+    border-radius: 5px;
+    display: flex;
+    height: 32px;
+    justify-content: flex-end;
+    margin-bottom: 7px;
+    margin-left: 1035px;
+    min-width: 107px;
+    padding: 6px 11px;
+}
+
+.get-started {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    letter-spacing: 0;
+    min-height: 19px;
+    min-width: 83px;
+}
+
+.login {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    letter-spacing: 0;
+    margin-bottom: 8px;
+    margin-left: 29px;
+    min-height: 19px;
+    min-width: 40px;
+}
+
+/* rectangle 2 */
+.rectangle-2 {
+    background-color:
+        #343434e0;
+    height: 879px;
+    width: 1366px;
+}
+
+/* logo inside rectangle */
+.logo_nobrand-1 {
+    height: 131px;
+    width: 131px;
+}
+
+/* logo name */
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500,900");
+
+.title {
+    color: var(--caribbean-green);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m);
+    font-weight: 900;
+    letter-spacing: 0;
+    min-height: 61px;
+}
+
+/* slogan1 */
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500,900");
+
+.title {
+    letter-spacing: 0;
+    min-height: 50px;
+}
+
+/* slogan 2 */
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500,900");
+
+.a-bridge-between-ser {
+    letter-spacing: 0;
+    min-height: 50px;
+}
+
+/* button after slogan */
+.rectangle-8 {
+    background-color: var(--persian-green);
+    border-radius: 5px;
+    height: 48px;
+    width: 223px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500,900");
+
+.raise-a-request-now {
+    color: var(--white);
+    cursor: pointer;
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    letter-spacing: 0;
+    min-height: 26px;
+    transition: all 0.2s ease-in;
+}
+
+.raise-a-request-now:hover {
+    transform: scale(1.1);
+}
+
+/* scrol div */
+.ellipse-1 {
+    background-color:
+        #7070707a;
+    border: 1px solid #797979;
+    border-radius: 29px;
+    cursor: pointer;
+    height: 58px;
+    transition: all 0.2s ease-in;
+    width: 58px;
+}
+
+.ellipse-1:hover {
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.2);
+}
